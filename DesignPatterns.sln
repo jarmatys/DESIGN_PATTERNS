@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{19717FB2-5934-4AA0-9AF9-777462869AE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Responsibility_Chain", "Responsibility_Chain\Responsibility_Chain.csproj", "{C906491E-9473-43EA-BA26-50CF394DC9A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{19717FB2-5934-4AA0-9AF9-777462869AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19717FB2-5934-4AA0-9AF9-777462869AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19717FB2-5934-4AA0-9AF9-777462869AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C906491E-9473-43EA-BA26-50CF394DC9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C906491E-9473-43EA-BA26-50CF394DC9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C906491E-9473-43EA-BA26-50CF394DC9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C906491E-9473-43EA-BA26-50CF394DC9A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
